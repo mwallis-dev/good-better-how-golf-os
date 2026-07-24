@@ -1,0 +1,4 @@
+interface:
+  display_name: "Log Reflection"
+  short_description: "Capture a Good-Better-How golf reflection"
+  default_prompt: "Use $log-reflection to turn my transcript into a dated golf reflection log."
