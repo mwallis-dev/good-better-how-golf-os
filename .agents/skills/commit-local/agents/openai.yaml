@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Local"
+  short_description: "Stage and commit changes locally (no push)"
+  default_prompt: "Use $commit-local to commit my current changes locally."
